@@ -1,0 +1,11 @@
+org\apache\camel\example\spring\boot\rest\jpa\Database.class
+org\apache\camel\example\spring\boot\rest\jpa\Order.class
+org\apache\camel\example\spring\boot\rest\jpa\OrderService.class
+org\apache\camel\example\spring\boot\rest\jpa\BookRepository.class
+org\apache\camel\example\spring\boot\rest\jpa\Application$RestApi.class
+org\apache\camel\example\spring\boot\rest\jpa\OrderRepository.class
+org\apache\camel\example\spring\boot\rest\jpa\Book.class
+org\apache\camel\example\spring\boot\rest\jpa\Application.class
+org\apache\camel\example\spring\boot\rest\jpa\Application$Backend.class
+javac.bat
+org.codehaus.plexus.compiler.javac.JavacCompiler8836187014596486662arguments
